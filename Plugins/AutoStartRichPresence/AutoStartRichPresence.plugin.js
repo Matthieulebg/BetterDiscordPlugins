@@ -1,4 +1,4 @@
-//META{"name":"AutoStartRichPresence","website":"https://github.com/Mega-Mewthree/BetterDiscordPlugins/tree/master/Plugins/AutoStartRichPresence","source":"https://github.com/Mega-Mewthree/BetterDiscordPlugins/blob/master/Plugins/AutoStartRichPresence/AutoStartRichPresence.plugin.js"}*//
+//META{"name":"Garlyonne Rp","website":"https://discord.gg/UHP3Ggk","source":"vienvitte nous rejoindre !!!"}*//
 
 /*
 -----BEGIN PGP SIGNED MESSAGE-----
